@@ -1,0 +1,35 @@
+.block1 {
+    background: orange;
+    width: 250;
+    height: 150;
+    float: left;
+}
+.block2 {
+    background: blue;
+    width: 250;
+    height: 150;
+    float: left;
+}
+.block3 {
+    background: green;
+    width: 250;
+    height: 150;
+    float: left;
+}
+.block4 {
+    background: red;
+    width: 250;
+    height: 150;
+    float: left;
+}
+.block5 {
+    background: yellow;
+    width: 250;
+    height: 150;
+    float: left;
+}
+.block6 {
+    background: purple;
+    width: 250;
+    height: left;
+}
